@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+   int a=1500,b=1489;
+    printf("%d",a=a-b);
+    return 0;
+}
