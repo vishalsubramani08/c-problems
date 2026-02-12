@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() {
+int a;
+scanf ("%d",&a);
+if(a%11==0){
+printf("divisible by 11");
+}
+
+else {
+    printf(" not divisibler by 11 not ");
+}
+    return 0;
+}
